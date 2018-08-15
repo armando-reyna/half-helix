@@ -31,7 +31,7 @@ module.exports = {
       icons: 'dist/assets/icons',
       images: 'dist/assets/images',
       scripts: 'dist/assets/js',
-      styles: 'dist/assets/css',
+      styles: 'dist/assets/css'
     }
   },
   project: {
